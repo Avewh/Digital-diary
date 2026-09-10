@@ -1,0 +1,30 @@
+*{ text-align: center;
+    background-color: #f3b3f3;
+    text-decoration: none;
+    padding: 15px;
+ }
+ h1 {
+    color: #2b1742;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: none;
+ }
+ p {
+    color: #482e66;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+ }
+button {
+    background-color: #a27ecc;
+    border: none;
+    color: rgb(233, 196, 231);
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
